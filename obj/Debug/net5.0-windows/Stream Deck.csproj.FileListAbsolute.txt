@@ -1,0 +1,36 @@
+D:\Stream Deck\Stream Deck\bin\Debug\net5.0-windows\Stream Deck.exe
+D:\Stream Deck\Stream Deck\bin\Debug\net5.0-windows\Stream Deck.deps.json
+D:\Stream Deck\Stream Deck\bin\Debug\net5.0-windows\Stream Deck.runtimeconfig.json
+D:\Stream Deck\Stream Deck\bin\Debug\net5.0-windows\Stream Deck.runtimeconfig.dev.json
+D:\Stream Deck\Stream Deck\bin\Debug\net5.0-windows\Stream Deck.dll
+D:\Stream Deck\Stream Deck\bin\Debug\net5.0-windows\ref\Stream Deck.dll
+D:\Stream Deck\Stream Deck\bin\Debug\net5.0-windows\Stream Deck.pdb
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream Deck.csproj.AssemblyReference.cache
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream_Deck.StreamDeck.resources
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream Deck.csproj.GenerateResource.cache
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream Deck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream Deck.AssemblyInfoInputs.cache
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream Deck.AssemblyInfo.cs
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream Deck.csproj.CoreCompileInputs.cache
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream Deck.dll
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\ref\Stream Deck.dll
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream Deck.pdb
+D:\Stream Deck\Stream Deck\obj\Debug\net5.0-windows\Stream Deck.genruntimeconfig.cache
+D:\StreamDeckWindowsForm\bin\Debug\net5.0-windows\Stream Deck.exe
+D:\StreamDeckWindowsForm\bin\Debug\net5.0-windows\Stream Deck.deps.json
+D:\StreamDeckWindowsForm\bin\Debug\net5.0-windows\Stream Deck.runtimeconfig.json
+D:\StreamDeckWindowsForm\bin\Debug\net5.0-windows\Stream Deck.runtimeconfig.dev.json
+D:\StreamDeckWindowsForm\bin\Debug\net5.0-windows\Stream Deck.dll
+D:\StreamDeckWindowsForm\bin\Debug\net5.0-windows\ref\Stream Deck.dll
+D:\StreamDeckWindowsForm\bin\Debug\net5.0-windows\Stream Deck.pdb
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream Deck.csproj.AssemblyReference.cache
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream_Deck.StreamDeck.resources
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream Deck.csproj.GenerateResource.cache
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream Deck.GeneratedMSBuildEditorConfig.editorconfig
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream Deck.AssemblyInfoInputs.cache
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream Deck.AssemblyInfo.cs
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream Deck.csproj.CoreCompileInputs.cache
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream Deck.dll
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\ref\Stream Deck.dll
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream Deck.pdb
+D:\StreamDeckWindowsForm\obj\Debug\net5.0-windows\Stream Deck.genruntimeconfig.cache
